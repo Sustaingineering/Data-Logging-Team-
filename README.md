@@ -1,5 +1,3 @@
-# Data-Logging-Team-
-
 # Data Logging System
 
 ## Overview
